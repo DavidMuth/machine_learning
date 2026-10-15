@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "/opt/anaconda3/envs/machine_learning/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "terminal.integrated.env.osx": {
+    "CONDA_DEFAULT_ACTIVATION_ENV": "/opt/anaconda3/envs/machine_learning"
+  }
+}
